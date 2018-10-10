@@ -1,0 +1,28 @@
+.jumbotron {
+    background-image: url(donuts3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;  
+    color: #482a80;
+}
+
+h1 {
+    font-family: 'Fascinate Inline', cursive;
+    color: #482a80;
+}
+
+.lead {
+    font-weight: bold
+}
+
+.navbar-brand {
+    font-family: 'Fascinate Inline', cursive;
+}
+
+.rounded-circle {
+    height: 50%;
+
+}
+
+.text-center {
+    width: 100%;
+}
